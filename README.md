@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piperhampsch!
 - 👀 I’m interested in sports analytics, and I am passionate about NCAA Policy & Legislation as a Division I Field Hockey student-athlete
-- 🎓 I am pursuing an undergraduate degree in Statistical Science at Duke University with minors in Computer Science and Philosophy
+- 🎓 I am pursuing a Masters in Management Studies from the Fuqua School of Business having completed my undergraduate degree in Statistical Science at Duke University with minors in Computer Science and Philosophy
 - 📩 Connect with me using piperhampsch@yahoo.com
 
 <!---
